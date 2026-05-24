@@ -8,6 +8,6 @@
     },
     "action": {
         "default_icon": "lock.png",
-        "default_popup": "v2.html"
+        "default_popup": "klic4change.html"
     }
 }
