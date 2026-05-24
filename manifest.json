@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "V2 Report",
+    "version": "1.0.0",
+    "description": "Reporting underage users made easy",
+    "icons": {
+        "16": "lock.png"
+    },
+    "action": {
+        "default_icon": "lock.png",
+        "default_popup": "v2.html"
+    }
+}
